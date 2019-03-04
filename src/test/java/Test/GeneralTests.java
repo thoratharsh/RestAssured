@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.*;
 
-public class Test1Test {
+public class GeneralTests {
 
     @BeforeMethod
     public void setUp() {
@@ -114,7 +114,7 @@ public class Test1Test {
     }
 
     //extract details using response
-    @Test(enabled = true, description = "extract details using repsonse")
+    @Test(enabled = false, description = "extract details using repsonse")
     public void extractUsingResponse() {
         Response resp = given().get("http://reqres.in/api/users/2")
                 .then()

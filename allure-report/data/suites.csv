@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Mar 04 14:44:01 IST 2019","Mon Mar 04 14:44:04 IST 2019","2319","All Test Suite","Rest Assured","Test.Test1Test","Test.Test1Test","extractUsingResponse","extract details using repsonse",""
+"passed","Mon Mar 04 14:44:01 IST 2019","Mon Mar 04 14:44:04 IST 2019","2319","All Test Suite","Rest Assured","Test.GeneralTests","Test.GeneralTests","extractUsingResponse","extract details using repsonse",""
