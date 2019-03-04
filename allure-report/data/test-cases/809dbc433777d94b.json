@@ -1,0 +1,103 @@
+{
+  "uid" : "809dbc433777d94b",
+  "name" : "extract details using repsonse",
+  "fullName" : "Test.Test1Test.extractUsingResponse",
+  "historyId" : "3195938ad44e352317308735e60b0bf1",
+  "time" : {
+    "start" : 1551690841773,
+    "stop" : 1551690844092,
+    "duration" : 2319
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1551690841634,
+      "stop" : 1551690841636,
+      "duration" : 2
+    },
+    "description" : "",
+    "status" : "unknown",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1551690844101,
+      "stop" : 1551690844101,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "unknown",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Test.Test1Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Test.Test1Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "extractUsingResponse"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Rest Assured"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test.Test1Test"
+  }, {
+    "name" : "host",
+    "value" : "HarshavardhanT-ub"
+  }, {
+    "name" : "thread",
+    "value" : "19533@HarshavardhanT-ub.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "d2891c92d88a2dea",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551690750944,
+        "stop" : 1551690752963,
+        "duration" : 2019
+      }
+    }, {
+      "uid" : "71bf31222072b53b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1551690495526,
+        "stop" : 1551690497630,
+        "duration" : 2104
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "809dbc433777d94b.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "HarshavardhanT-ub",
+    "children" : [ {
+      "name" : "19533@HarshavardhanT-ub.main(1)",
+      "children" : [ {
+        "name" : "extract details using repsonse",
+        "uid" : "809dbc433777d94b",
+        "parentUid" : "1b8d0af8d9729a6c597342ce29d641ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1551690841773,
+          "stop" : 1551690844092,
+          "duration" : 2319
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1b8d0af8d9729a6c597342ce29d641ba"
+    } ],
+    "uid" : "a06b12132c736fd549380a8f8622d328"
+  } ],
+  "name" : "timeline"
+}

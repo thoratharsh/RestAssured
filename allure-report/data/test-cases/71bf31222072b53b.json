@@ -1,0 +1,85 @@
+{
+  "uid" : "71bf31222072b53b",
+  "name" : "extractUsingResponse",
+  "fullName" : "Test.Test1Test.extractUsingResponse",
+  "historyId" : "3195938ad44e352317308735e60b0bf1",
+  "time" : {
+    "start" : 1551690495526,
+    "stop" : 1551690497630,
+    "duration" : 2104
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1551690495326,
+      "stop" : 1551690495329,
+      "duration" : 3
+    },
+    "description" : "",
+    "status" : "unknown",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1551690497635,
+      "stop" : 1551690497635,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "unknown",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Test.Test1Test"
+  }, {
+    "name" : "testClass",
+    "value" : "Test.Test1Test"
+  }, {
+    "name" : "testMethod",
+    "value" : "extractUsingResponse"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "/home/harshavardhant/Desktop/Learn/src/test/java/Test/Test1Test.java"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test.Test1Test"
+  }, {
+    "name" : "host",
+    "value" : "HarshavardhanT-ub"
+  }, {
+    "name" : "thread",
+    "value" : "18824@HarshavardhanT-ub.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "71bf31222072b53b.json",
+  "parameterValues" : [ ]
+}

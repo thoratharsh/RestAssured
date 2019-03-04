@@ -1,0 +1,29 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "All Test Suite",
+    "children" : [ {
+      "name" : "Rest Assured",
+      "children" : [ {
+        "name" : "Test.Test1Test",
+        "children" : [ {
+          "name" : "extract details using repsonse",
+          "uid" : "809dbc433777d94b",
+          "parentUid" : "05a0c1909c6a7a818f2b2c5d2bfdd90c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1551690841773,
+            "stop" : 1551690844092,
+            "duration" : 2319
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "05a0c1909c6a7a818f2b2c5d2bfdd90c"
+      } ],
+      "uid" : "5192581d5e41b81034b1cfca4df4af35"
+    } ],
+    "uid" : "7d0421919ebcae780c955830177c9415"
+  } ],
+  "name" : "suites"
+}

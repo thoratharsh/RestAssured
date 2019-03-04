@@ -1,0 +1,11 @@
+[ {
+  "uid" : "809dbc433777d94b",
+  "name" : "extract details using repsonse",
+  "time" : {
+    "start" : 1551690841773,
+    "stop" : 1551690844092,
+    "duration" : 2319
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
